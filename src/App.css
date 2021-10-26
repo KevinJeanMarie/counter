@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+div {
+ text-align: center;
+ background-color: khaki;
+ 
+}
+
+.btn1 {
+  background-color: rgb(29, 172, 216);
+  font-size: 40px;
+  border-width: 5px;
+  width: 60px;
+  
+
+}
+
+.btn2 {
+  background-color:pink;
+  font-size: 40px;
+  border-width: 5px;
+  width: 60px;
+
+}
+
+h1 {
+  font-family:fantasy;
+  font-size: 50px;
+}
